@@ -1,7 +1,7 @@
 #codeAplha_ Student-grade-tracker-
+
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class StudentGradeTracker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -48,8 +48,6 @@ public class StudentGradeTracker {
         scanner.close();
     }
 }
-
-
 output:
 Welcome to the Student Grade Tracker!
 
